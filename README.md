@@ -8,6 +8,8 @@ network_programming homework
 (PyQy 사용, 위쪽 컨트롤창에 각 규칙을 설정해 리스트를 만들고, 규칙적용을 누르면 적절한 콘솔명령어로 조합되어 콘솔명령어 실행)
 </br>
 (내 IP 선택시 자동으로 자신의 ip 입력되도록 변경)
+</br>
+(File Save 를 누르면 각 
 
 </br>
 
