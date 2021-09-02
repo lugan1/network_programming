@@ -9,7 +9,7 @@ network_programming homework
 </br>
 (내 IP 선택시 자동으로 자신의 ip 입력되도록 변경)
 </br>
-(File Save 를 누르면 각 
+(File Save 를 누르면 각 조합된 콘솔명령어들을 txt 파일로 저장, 불러오기를 누르면 txt 파일의 텍스트를 읽어와서 리스트로 표시)
 
 </br>
 
